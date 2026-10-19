@@ -8,6 +8,7 @@ dependencies = [
     "httpx>=0.28.1",
     "ipykernel>=6.31.0",
     "matplotlib>=3.9.4",
+    "netron>=9.3.2",
     "numpy>=2.0.2",
     "torch>=2.8.0",
     "tqdm>=4.70.1",
